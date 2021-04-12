@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h4>this is index</h4>
+	<p>thg man ngu wa</p>
 </body>
 </html>
